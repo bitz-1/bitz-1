@@ -42,9 +42,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/bitztechdev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bitztechdev" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=d3lfik&show_icons=true&locale=en&layout=compact" alt="d3lfik" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=d3lfik&show_icons=true&locale=en" alt="d3lfik" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=d3lfik&" alt="d3lfik" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=d3lfik&show_icons=true&locale=en&layout=compact" alt="d3lfik" />
+&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=d3lfik&show_icons=true&locale=en" alt="d3lfik" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=d3lfik&" alt="d3lfik" /></p>
 

@@ -1,20 +1,20 @@
-[![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)](https://github.com/D3lfik)
+[![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)](https://github.com/bitz-1)
 <h1 align="center">Hi 👋, I'm Apurv Nandgaonkar</h1>
 <h3 align="center">Code, Create, Conquer: A Full Stack Developer From Pune, India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=d3lfik&label=Profile%20views&color=0e75b6&style=flat" alt="d3lfik" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d3lfik" alt="d3lfik" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bitz-1&label=Profile%20views&color=0e75b6&style=flat" alt="bitz-1" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bitz-1" alt="bitz-1" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/apurvmod007" target="blank"><img src="https://img.shields.io/twitter/follow/apurvmod007?logo=twitter&style=for-the-badge" alt="apurvmod007" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 
-- 🔭 I’m currently working on [ERS_system](https://github.com/D3lfik/ERS_system)
+- 🔭 I’m currently working on [ERS_system](https://github.com/bitz-1/ERS_system)
 
 - 🌱 I’m currently learning **AI frameworks**
 
-- 👯 I’m looking to collaborate on [IssueTracker](https://github.com/D3lfik/issueTracker)
+- 👯 I’m looking to collaborate on [IssueTracker](https://github.com/bitz-1/issueTracker)
 
-- 🤝 I’m looking for help with [MovieAppCineflex](https://github.com/D3lfik/movieAppCineflex)
+- 🤝 I’m looking for help with [MovieAppCineflex](https://github.com/bitz-1/movieAppCineflex)
 
 - 💬 Ask me about **React,Express,Node,Soldity,Web3,Cyber-Security**
 
@@ -42,7 +42,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/bitztechdev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bitztechdev" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=d3lfik&show_icons=true&locale=en&layout=compact" alt="d3lfik" />
-&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=d3lfik&show_icons=true&locale=en" alt="d3lfik" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=d3lfik&" alt="d3lfik" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bitz-1&show_icons=true&locale=en&layout=compact" alt="bitz-1" />
+&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=bitz-1&show_icons=true&locale=en" alt="bitz-1" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=bitz-1&" alt="bitz-1" /></p>
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Apurv Nandgaonkar  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
-<h3 align="center">Code, Create, Conquer: A Full Stack Developer From Pune, India <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></h3>
+<h3 align="center"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Code, Create, Conquer: A Full Stack Developer From Pune, India <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bitz-1&label=Profile%20views&color=0e75b6&style=flat" alt="bitz-1" /> </p>

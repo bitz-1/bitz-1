@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/apurvmod007" target="blank"><img src="https://img.shields.io/twitter/follow/apurvmod007?logo=twitter&style=for-the-badge" alt="apurvmod007" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-
+- 🔭 I’m currently working on [Aeomero-Ai](https://github.com/bitz-1/aeomero-ai)
 - 🔭 I’m currently working on [ERS_system](https://github.com/bitz-1/ERS_system)
 
 - 🌱 I’m currently learning **AI frameworks**
@@ -26,7 +26,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">BitzTech-Dev<a href="https://bitzdev.tech" target="blank"><img align="center" src="" alt="bitztechdev" height="30" width="40" /></a>
 <a href="https://dev.to/bitztechdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bitztechdev" height="30" width="40" /></a>
 <a href="https://twitter.com/apurvmod007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="apurvmod007" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/apurv-nandgaonkar-178b32237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/apurv-nandgaonkar-178b32237/" height="30" width="40" /></a>

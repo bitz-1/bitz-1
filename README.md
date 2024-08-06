@@ -94,6 +94,24 @@
 ![Static Badge](https://img.shields.io/badge/Google%20cloud%20-white?style=for-the-badge&logo=google%20cloud&link=https%3A%2F%2Fcloud.google.com%2F)
 ![Static Badge](https://img.shields.io/badge/Railway%20-white?style=for-the-badge&logo=railway&logoColor=black&link=https%3A%2F%2Frailway.app%2F)
 
+---
+
+## Project Blog 📚
+
+| Project Name      | Description                                        | Links                        |
+|-------------------|----------------------------------------------------|------------------------------|
+| **bluestock-ipo-rest-api**    | This project is a REST API developed for Bluestock Fintech to manage and showcase IPOs (Initial Public Offerings) to users.     | [Read More](https://github.com/bitz-1/bluestock-ipo-rest-api) \| [GitHub](https://github.com/bitz-1/bluestock-ipo-rest-api) |
+| **Aeonaxy E-Learning Platform API**    | The Aeonaxy project aims to develop the backend API for an E-Learning platform.    | [Read More](https://github.com/bitz-1/Aeonaxy-ELeaning_Api) \| [GitHub](https://github.com/bitz-1/Aeonaxy-ELeaning_Api) |
+| **DAPP**  | Welcome to the DAPP Supply Chain Fullstack Application repository!   | [Read More](https://github.com/bitz-1/DAPP) \| [GitHub](https://github.com/bitz-1/DAPP) |
+| **ERS_system** | This is a full-stack web application called Employee Review System (ERS). | [Read More](https://github.com/bitz-1/ERS_system) \| [GitHub](https://github.com/bitz-1/ERS_system) |
+| **Issue Tracker** |  The application allows users to track and manage issues or tasks within a project. | [Read More](https://github.com/bitz-1/issueTracker) \| [GitHub](https://github.com/bitz-1/issueTracker)|
+| **Ecommerce API** | The API provides functionalities to manage products for an Ecommerce application.. | [Read More](https://github.com/bitz-1/Ecommerce-API) \| [GitHub](https://github.com/bitz-1/Ecommerce-API) |
+| **movieAppCineflex**  |The application allows users to search movies Through rest API from movie db.  | [Read More](https://github.com/bitz-1/movieAppCineflex) \| [GitHub](https://github.com/bitz-1/movieAppCineflex) |
+| **Vite-portfolio**  | This is a portfolio website built using React.js, JavaScript, and SCSS. It showcases my projects, skills, and contact information.   | [Read More](https://github.com/bitz-1/DAPP) \| [GitHub](https://github.com/bitz-1/DAPP) |
+
+
+---
+
 
 
 

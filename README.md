@@ -1,42 +1,100 @@
 <h1 align="center">Hi 👋, I'm Apurv Nandgaonkar <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+
+<h3 align="left">Connect with me:</h3> 
+<div align="center">
+  <a href="apurv.mod007@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/bitztechdev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/ApurvMod007" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+  <a href="https://www.bitzdev.tech/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Website&logo=Websiter&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Website logo"  />
+  </a>
+</div>
+
+###
 <h3 align="center"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Code, Create, Conquer: A Full Stack Developer From Pune, India <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bitz-1&label=Profile%20views&color=0e75b6&style=flat" alt="bitz-1" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bitz-1" alt="bitz-1" /></a> </p>
 <p align="left"> <a href="https://twitter.com/apurvmod007" target="blank"><img src="https://img.shields.io/twitter/follow/apurvmod007?logo=twitter&style=for-the-badge" alt="apurvmod007" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
-🔭 I’m currently working on Aeomero-Ai and ERS_system
-🌱 I’m currently learning AI frameworks
-👯 I’m looking to collaborate on IssueTracker
-🤝 I’m looking for help with MovieAppCineflex
-💬 Ask me about React, Express, Node, Solidity, Web3, Cyber-Security
-📫 How to reach me: bitztechdev@gmail.com
-Current Positions
-SDE Intern at Bluestock Fintech
-Front-End Developer at Safe Security Dynamics
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- 🔭 I’m currently working on **Aeomero-Ai** and **ERS_system**
+- 🌱 I’m currently learning **AI frameworks**
+- 👯 I’m looking to collaborate on **IssueTracker**
+- 🤝 I’m looking for help with **MovieAppCineflex**
+- 💬 Ask me about **Fintech,Development, Web3, Cyber-Security**
+- 📫 How to reach me: **apurv.mod007@gmail.com**
 
-<h3 align="left">Connect with me:</h3> 
-<p align="left"><a href="https://bitzdev.tech" target="_blank">BitzTech-Dev</a></p>
-<a href="https://dev.to/bitztechdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bitztechdev" height="30" width="40" /></a>
-<a href="https://twitter.com/apurvmod007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="apurvmod007" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/apurv-nandgaonkar-178b32237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/apurv-nandgaonkar-178b32237/" height="30" width="40" /></a>
-<a href="https://kaggle.com/apurvnandgaonkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="apurvnandgaonkar" height="30" width="40" /></a>
-<a href="https://instagram.com/bitzmcmxcvii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bitzmcmxcvii" height="30" width="40" /></a>
-<a href="https://hashnode.com/@bitztechdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@bitztechdev" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/d3lfik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="d3lfik" height="30" width="40" /></a>
-<a href="https://discord.gg/bitztechdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bitztechdev" height="30" width="40" /></a>
-</p>
+### Current Positions:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+- **SDE Intern at Bluestock FinTech**
+- **Front-End Developer at Safe Security Dynamics**
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/bitztechdev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bitztechdev" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bitz-1&show_icons=true&locale=en&layout=compact" alt="bitz-1" />
-&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=bitz-1&show_icons=true&locale=en" alt="bitz-1" />
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bitz-1&" alt="bitz-1" /></p>
+# Tech Stack </>
+
+### Languages
+ ![Static Badge](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&link=https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fdocs%2FWeb%2FJavaScript)
+ ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&link=https://www.python.org)
+ ![Static Badge](https://img.shields.io/badge/Sql-red?style=for-the-badge&logo=sql&link=https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fdocs%2FGlossary%2FSQL)
+ ![Static Badge](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white&link=https%3A%2F%2Fwww.typescriptlang.org)
+ ![Static Badge](https://img.shields.io/badge/GoLang-skyblue?style=for-the-badge&logo=go&logoColor=white&link=https://go.dev/)
+ ![Static Badge](https://img.shields.io/badge/Solidity-purple?style=for-the-badge&logo=solidity&logoColor=white&link=https%3A%2F%2Fsoliditylang.org%2F)
+
+### Front-End Tools
+![Static Badge](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=blue&link=https%3A%2F%2Freact.dev%2F)
+![Static Badge](https://img.shields.io/badge/Vue-grey?style=for-the-badge&logo=vue.js&link=https%3A%2F%2Fvuejs.org%2F)
+![Static Badge](https://img.shields.io/badge/Bootstap-6428DC?style=for-the-badge&logo=bootstrap&labelColor=white&link=https%3A%2F%2Fgetbootstrap.com%2F)
+![Static Badge](https://img.shields.io/badge/Reactnative-black?style=for-the-badge&logo=reactnative&labelColor=white&link=https%3A%2F%2Freactnative.dev%2F)
+
+### Back-End Tools
+![Static Badge](https://img.shields.io/badge/Node-green?style=for-the-badge&logo=node.js&labelColor=white&link=https%3A%2F%2Fnodejs.org%2Fen)
+![Static Badge](https://img.shields.io/badge/Django-grey?style=for-the-badge&logo=django&logoColor=black&labelColor=white&link=https%3A%2F%2Fwww.djangoproject.com%2F)
+![Static Badge](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=black&labelColor=white&link=https%3A%2F%2Fnextjs.org%2F)
+![Static Badge](https://img.shields.io/badge/Electron-1B1C26?style=for-the-badge&logo=electron&logoColor=black&labelColor=white&link=https%3A%2F%2Fwww.electronjs.org%2F)
+![Static Badge](https://img.shields.io/badge/FastAPI-009485?style=for-the-badge&logo=fastapi&logoColor=black&labelColor=white&link=https%3A%2F%2Ffastapi.tiangolo.com%2F)
+
+### Database Tools
+![Static Badge](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&labelColor=white&link=https%3A%2F%2Fwww.mongodb.com%2F)
+![Static Badge](https://img.shields.io/badge/PostgreSql-white?style=for-the-badge&logo=postgresql&labelColor=white&link=https%3A%2F%2Fwww.postgresql.org%2F)
+![Static Badge](https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis&labelColor=white&link=https%3A%2F%2Fredis.io%2F)
+![Static Badge](https://img.shields.io/badge/sqLite-white?style=for-the-badge&logo=sqlite&labelColor=black&link=https%3A%2F%2Fwww.sqlite.org%2F)
+
+
+### Automation Tools
+![Static Badge](https://img.shields.io/badge/selenium-green?style=for-the-badge&logo=www.selenium&link=https%3A%2F%2Fwww.selenium.dev%2F)
+![Static Badge](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&link=https%3A%2F%2Fwww.docker.com%2F)
+![Static Badge](https://img.shields.io/badge/Jenkins-red?style=for-the-badge&logo=jenkins&logoColor=white&link=https%3A%2F%2Fwww.jenkins.io%2F)
+![Static Badge](https://img.shields.io/badge/resend-black?style=for-the-badge&logo=resend&link=https%3A%2F%2Fresend.com%2F)
+![Static Badge](https://img.shields.io/badge/Github%20Actions-blue?style=for-the-badge&logo=githubactions&link=https%3A%2F%2Fdocs.github.com%2Fen%2Factions)
+
+
+
+### Development Tools
+![Static Badge](https://img.shields.io/badge/Vs%20code%20-blue?style=for-the-badge&logo=visual%20studio&link=https%3A%2F%2Fcode.visualstudio.com%2F)
+![Static Badge](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&link=https%3A%2F%2Fgit-scm.com%2F)
+![Static Badge](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2F)
+![Static Badge](https://img.shields.io/badge/kubernetes-blue?style=for-the-badge&logo=kubernetes&logoColor=white&link=https%3A%2F%2Fkubernetes.io%2F)
+![Static Badge](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&link=https%3A%2F%2Fwww.docker.com%2F)
+![Static Badge](https://img.shields.io/badge/linux-yellow?style=for-the-badge&logo=linux&logoColor=white)
+
+
+
+
+
+### Cloud Platforms
+![Static Badge](https://img.shields.io/badge/Render-black?style=for-the-badge&logo=render&labelColor=black&link=https%3A%2F%2Frender.com%2F)
+![Static Badge](https://img.shields.io/badge/Fly.io-8A2FE5?style=for-the-badge&logo=fly.io&labelColor=black&link=https%3A%2F%2Ffly.io%2F)
+![Static Badge](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazon&labelColor=black&link=https%3A%2F%2Faws.amazon.com%2F)
+![Static Badge](https://img.shields.io/badge/Google%20cloud%20-white?style=for-the-badge&logo=google%20cloud&link=https%3A%2F%2Fcloud.google.com%2F)
+![Static Badge](https://img.shields.io/badge/Railway%20-white?style=for-the-badge&logo=railway&logoColor=black&link=https%3A%2F%2Frailway.app%2F)
+
+
+
+
 

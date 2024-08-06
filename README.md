@@ -1,25 +1,18 @@
-<h1 align="center">Hi 👋, I'm Apurv Nandgaonkar  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<h1 align="center">Hi 👋, I'm Apurv Nandgaonkar <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 <h3 align="center"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Code, Create, Conquer: A Full Stack Developer From Pune, India <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></h3>
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bitz-1&label=Profile%20views&color=0e75b6&style=flat" alt="bitz-1" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bitz-1" alt="bitz-1" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/apurvmod007" target="blank"><img src="https://img.shields.io/twitter/follow/apurvmod007?logo=twitter&style=for-the-badge" alt="apurvmod007" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
-
-- 🔭 I’m currently working on [Aeomero-Ai](https://github.com/bitz-1/aeomero-ai)
-- 🔭 I’m currently working on [ERS_system](https://github.com/bitz-1/ERS_system)
-
-- 🌱 I’m currently learning **AI frameworks**
-
-- 👯 I’m looking to collaborate on [IssueTracker](https://github.com/bitz-1/issueTracker)
-
-- 🤝 I’m looking for help with [MovieAppCineflex](https://github.com/bitz-1/movieAppCineflex)
-
-- 💬 Ask me about **React,Express,Node,Soldity,Web3,Cyber-Security**
-
-- 📫 How to reach me **bitztechdev@gmail.com**
+🔭 I’m currently working on Aeomero-Ai and ERS_system
+🌱 I’m currently learning AI frameworks
+👯 I’m looking to collaborate on IssueTracker
+🤝 I’m looking for help with MovieAppCineflex
+💬 Ask me about React, Express, Node, Solidity, Web3, Cyber-Security
+📫 How to reach me: bitztechdev@gmail.com
+Current Positions
+SDE Intern at Bluestock Fintech
+Front-End Developer at Safe Security Dynamics
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->

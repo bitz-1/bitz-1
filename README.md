@@ -108,7 +108,7 @@
 | **Ecommerce API** | The API provides functionalities to manage products for an Ecommerce application.. | [Read More](https://github.com/bitz-1/Ecommerce-API) \| [GitHub](https://github.com/bitz-1/Ecommerce-API) |
 | **movieAppCineflex**  |The application allows users to search movies Through rest API from movie db.  | [Read More](https://github.com/bitz-1/movieAppCineflex) \| [GitHub](https://github.com/bitz-1/movieAppCineflex) |
 | **Vite-portfolio**  | This is a portfolio website built using React.js, JavaScript, and SCSS. It showcases my projects, skills, and contact information.   | [Read More](https://github.com/bitz-1/DAPP) \| [GitHub](https://github.com/bitz-1/DAPP) |
-
+| **Scanqr**  |  This is a QR Scanner application built using Expo and React Native.   | [Read More](https://github.com/bitz-1/scanqr) \| [GitHub](https://github.com/bitz-1/scanqr) |
 
 ---
 

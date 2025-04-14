@@ -32,7 +32,7 @@
 
 ### Current Positions:
 
-- **SDE at Associative**
+- **SDE at Associative** (current)
 - **SDE at Bluestock FinTech**
 - **Full Stack Developer at Safe Security Dynamics**
 

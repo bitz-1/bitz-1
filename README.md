@@ -32,6 +32,7 @@
 
 ### Current Positions:
 
+- **SDE at Associative**
 - **SDE Intern at Bluestock FinTech**
 - **Front-End Developer Intern at Safe Security Dynamics**
 

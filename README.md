@@ -23,18 +23,18 @@
 <p align="left"> <a href="https://twitter.com/apurvmod007" target="blank"><img src="https://img.shields.io/twitter/follow/apurvmod007?logo=twitter&style=for-the-badge" alt="apurvmod007" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-- 🔭 I’m currently working on **Aeomero-Ai** and **ERS_system**
+- 🔭 I’m currently working on my project **moneykrill.com**
 - 🌱 I’m currently learning **AI frameworks**
-- 👯 I’m looking to collaborate on **IssueTracker**
-- 🤝 I’m looking for help with **MovieAppCineflex**
+- 👯 I’m looking to collaborate on **fintech.moneykrill.com**
+- 🤝 I’m looking for help with **BDE**
 - 💬 Ask me about **Fintech,Development, Web3, Cyber-Security**
 - 📫 How to reach me: **apurv.mod007@gmail.com**
 
 ### Current Positions:
-
-- **SDE at Associative** (current)
-- **SDE at Bluestock FinTech**
-- **Full Stack Developer at Safe Security Dynamics**
+- **Actively looking for better opportunity** (current)
+- **SDE at Associative** (Ex-oct31/2025)
+- **SDE at Bluestock FinTech** (Ex)
+- **Developer and Product Designer at Safe Security Dynamics** (Ex)
 
 
 # Tech Stack </>
@@ -52,6 +52,9 @@
 ![Static Badge](https://img.shields.io/badge/Vue-grey?style=for-the-badge&logo=vue.js&link=https%3A%2F%2Fvuejs.org%2F)
 ![Static Badge](https://img.shields.io/badge/Bootstap-6428DC?style=for-the-badge&logo=bootstrap&labelColor=white&link=https%3A%2F%2Fgetbootstrap.com%2F)
 ![Static Badge](https://img.shields.io/badge/Reactnative-black?style=for-the-badge&logo=reactnative&labelColor=white&link=https%3A%2F%2Freactnative.dev%2F)
+![Static Badge](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&labelColor=white&link=https%3A%2F%2Fflutter.dev)
+
+
 
 ### Back-End Tools
 ![Static Badge](https://img.shields.io/badge/Node-green?style=for-the-badge&logo=node.js&labelColor=white&link=https%3A%2F%2Fnodejs.org%2Fen)
@@ -73,6 +76,11 @@
 ![Static Badge](https://img.shields.io/badge/Jenkins-red?style=for-the-badge&logo=jenkins&logoColor=white&link=https%3A%2F%2Fwww.jenkins.io%2F)
 ![Static Badge](https://img.shields.io/badge/resend-black?style=for-the-badge&logo=resend&link=https%3A%2F%2Fresend.com%2F)
 ![Static Badge](https://img.shields.io/badge/Github%20Actions-blue?style=for-the-badge&logo=githubactions&link=https%3A%2F%2Fdocs.github.com%2Fen%2Factions)
+
+### Distributed Messaging
+![Static Badge](https://img.shields.io/badge/Celery-darkgreen?style=for-the-badge&logo=celery&logoColor=white&link=https%3A%2F%2Fdocs.celeryq.dev%2Fen%2Fstable%2F)
+![Static Badge](https://img.shields.io/badge/RabbitMQ-orange?style=for-the-badge&logo=rabbitmq&logoColor=white&link=https%3A%2F%2Frabbitmq.com%2F)
+![Static Badge](https://img.shields.io/badge/Kafka-black?style=for-the-badge&logo=apachekafka&logoColor=white&link=https%3A%2F%2Fkafka.apache.org%2F)
 
 
 

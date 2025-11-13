@@ -28,7 +28,7 @@
 - 👯 I’m looking to collaborate on **fintech.moneykrill.com**
 - 🤝 I’m looking for help with **BDE**
 - 💬 Ask me about **Fintech,Development, Web3, Cyber-Security**
-- 📫 How to reach me: **apurv.mod007@gmail.com**
+- 📫 How to reach me for business and collaboration : **apurv.nandgaonkar@moneykrill.com**
 
 ### Current Positions:
 - **Actively looking for better opportunity** (current)
